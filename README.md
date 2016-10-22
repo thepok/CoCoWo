@@ -22,6 +22,11 @@ When i write Code, i allways think: "Man again i have to write this code, that i
 
 ## Inspiration
 Andrej Karpathy generated in [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) some impressiv real looking C++ Quellcode frome the Sourcecode of Linux
+
+## Readingmaterial
+-[Understanding LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+-[Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
+
 ## Proposed Roadmap
 
 ### 1 Decide on Framworks

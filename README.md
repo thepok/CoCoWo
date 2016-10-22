@@ -14,7 +14,8 @@ When i write Code, i allways think: "Man again i have to write this code, that i
    * Or the prediction of two Networks, a specialiezed one and a generall one are merged
 - Codecreation should not be restricted to the current Position in the Sourcefile
    * For example in C++ there exist .cpp and .h files that are strongly related. Code should be placed in both files simulatnly.
-   
+- Multilayerd aproach
+  * one net could create the General Structure of the SourceCode and another fills it with life
    
 ## Benefits
 - The use of the Cocowo could lead to better readable code
@@ -24,8 +25,8 @@ When i write Code, i allways think: "Man again i have to write this code, that i
 Andrej Karpathy generated in [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) some impressiv real looking C++ Quellcode frome the Sourcecode of Linux
 
 ## Readingmaterial
--[Understanding LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
--[Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
+- [Understanding LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/)
 
 ## Proposed Roadmap
 
